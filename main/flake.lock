@@ -42,11 +42,11 @@
     "src-riimut-main": {
       "flake": false,
       "locked": {
-        "lastModified": 1640511765,
-        "narHash": "sha256-RnNbCVzpX4l+xS6GV9yG3NQ1mPxKkJ/rSA3y8tCwbwM=",
+        "lastModified": 1648892968,
+        "narHash": "sha256-e8EiOenx0d5e/TR5j1bOuSvNFpSIgyAazshv4/OOgvA=",
         "owner": "stscoundrel",
         "repo": "riimut-nim",
-        "rev": "9b67d96c63a7ec43828a199b06ec25fc6aab6866",
+        "rev": "c812c3d957709506895f160d45e9e8bb5702df1a",
         "type": "github"
       },
       "original": {
