@@ -37,10 +37,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-riimut-main": "src-riimut-main"
+        "src-riimut-v1_2_0": "src-riimut-v1_2_0"
       }
     },
-    "src-riimut-main": {
+    "src-riimut-v1_2_0": {
       "flake": false,
       "locked": {
         "lastModified": 1657474122,
@@ -52,7 +52,7 @@
       },
       "original": {
         "owner": "stscoundrel",
-        "ref": "refs/heads/main",
+        "ref": "refs/tags/v1.2.0",
         "repo": "riimut-nim",
         "type": "github"
       }
