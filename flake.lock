@@ -45,11 +45,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1658015569,
-        "narHash": "sha256-dEDt+fDZ0ldsmagc7M1B0ehGJLs6TuEEcWDdx5yHEyg=",
+        "lastModified": 1658018222,
+        "narHash": "sha256-1ISnAFuqTtplLR/nYeXRpKXgLJDnEYE69adC2L91Ego=",
         "owner": "nim-nix-pkgs",
         "repo": "riimut",
-        "rev": "3172eafda52dcd1299c6947cee5f2694025a0bf7",
+        "rev": "eae3c54fa2d259f581af7e7a532a8a98b2fc42b9",
         "type": "github"
       },
       "original": {
@@ -72,11 +72,11 @@
       },
       "locked": {
         "dir": "v1_0_0",
-        "lastModified": 1658015569,
-        "narHash": "sha256-dEDt+fDZ0ldsmagc7M1B0ehGJLs6TuEEcWDdx5yHEyg=",
+        "lastModified": 1658018222,
+        "narHash": "sha256-1ISnAFuqTtplLR/nYeXRpKXgLJDnEYE69adC2L91Ego=",
         "owner": "nim-nix-pkgs",
         "repo": "riimut",
-        "rev": "3172eafda52dcd1299c6947cee5f2694025a0bf7",
+        "rev": "eae3c54fa2d259f581af7e7a532a8a98b2fc42b9",
         "type": "github"
       },
       "original": {
@@ -99,11 +99,11 @@
       },
       "locked": {
         "dir": "v1_1_0",
-        "lastModified": 1658015569,
-        "narHash": "sha256-dEDt+fDZ0ldsmagc7M1B0ehGJLs6TuEEcWDdx5yHEyg=",
+        "lastModified": 1658018222,
+        "narHash": "sha256-1ISnAFuqTtplLR/nYeXRpKXgLJDnEYE69adC2L91Ego=",
         "owner": "nim-nix-pkgs",
         "repo": "riimut",
-        "rev": "3172eafda52dcd1299c6947cee5f2694025a0bf7",
+        "rev": "eae3c54fa2d259f581af7e7a532a8a98b2fc42b9",
         "type": "github"
       },
       "original": {
@@ -126,11 +126,11 @@
       },
       "locked": {
         "dir": "v1_2_0",
-        "lastModified": 1658015569,
-        "narHash": "sha256-dEDt+fDZ0ldsmagc7M1B0ehGJLs6TuEEcWDdx5yHEyg=",
+        "lastModified": 1658018222,
+        "narHash": "sha256-1ISnAFuqTtplLR/nYeXRpKXgLJDnEYE69adC2L91Ego=",
         "owner": "nim-nix-pkgs",
         "repo": "riimut",
-        "rev": "3172eafda52dcd1299c6947cee5f2694025a0bf7",
+        "rev": "eae3c54fa2d259f581af7e7a532a8a98b2fc42b9",
         "type": "github"
       },
       "original": {
@@ -154,11 +154,11 @@
     "src-riimut-main": {
       "flake": false,
       "locked": {
-        "lastModified": 1655821572,
-        "narHash": "sha256-Z4YoY8QvBpRzWAocE18LfCzAxLcZqDsGLbWdN6vE46Y=",
+        "lastModified": 1657474122,
+        "narHash": "sha256-QOblOgwX13FwRAi4t6A2YW0jIJP82m+2Y0E/2vq+kmI=",
         "owner": "stscoundrel",
         "repo": "riimut-nim",
-        "rev": "13e574f2de29fdcee1b922da02dc0fa38867caf1",
+        "rev": "e9c329f10676c531a20f09c0286a76f4677d9de0",
         "type": "github"
       },
       "original": {
